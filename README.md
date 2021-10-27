@@ -41,7 +41,6 @@ Este projeto foi criado como forma de avaliação do curso da Trybe, foi propost
 <br>
 
 <h2 id="Tecnologias-utilizadas" >💻 Tecnologias utilizadas</h2>
-<br>
 <p align="justify"> 
   <ul>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a></li>
