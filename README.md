@@ -25,7 +25,7 @@
 <h2 id="sobre-o-projeto">🧐 Sobre o projeto</h2>
 <br>
 <p align="justify"> 
-Este projeto foi criado como forma de avaliação do curso da Trybe, foi proposto a criação de uma aplicação back-end que realiza a Criação, Leitura, Atualização e Exclusão (CRUD) de receitas em banco de dados.
+Este projeto foi usado para avaliação do curso da Trybe, foi proposto a criação de uma aplicação back-end que realiza a Criação, Leitura, Atualização e Exclusão (CRUD) de receitas em banco de dados.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -34,7 +34,7 @@ Este projeto foi criado como forma de avaliação do curso da Trybe, foi propost
 <h2 id="funcionalidades">🔧 Funcionalidades</h2>
 <br>
 <p align="justify"> 
-  Alem das funcionalidades básicas do CRUD,houve a implementaçãos das features de busca por receitas por um numero identificador único (id), persistir imagens referentes a cada receita e autenticação de login para pessoas usuarias e administradoras.
+  Além das funcionalidades básicas do CRUD, houve a implementação das features de busca por receitas por um número identificador único (id), persistir imagens referentes a cada receita e autenticação de login para pessoas usuárias e administradoras.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -64,7 +64,7 @@ Este projeto foi criado como forma de avaliação do curso da Trybe, foi propost
 <h2 id="status-do-Projeto" >📈 Status do projeto</h2>
 <br>
 <p align="justify"> 
-  O projeto foi finalizado junto a trybe, entretanto já foi iniciado testes de integração que já se encontra com 30% de cobertura utilizando Mocha, Chai e Sinon. 
+  O projeto foi finalizado junto a trybe, entretanto, já foi iniciado testes de integração que se encontram com 30% de cobertura utilizando Mocha, Chai e Sinon. 
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -74,8 +74,9 @@ Este projeto foi criado como forma de avaliação do curso da Trybe, foi propost
 <br>
 
 <p align="justify"> 
-  para instalar as dependencias basta você executar o comando:
+  Para instalar as dependencias, execute o comando:
 </p>
+
     npm install
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -83,10 +84,18 @@ Este projeto foi criado como forma de avaliação do curso da Trybe, foi propost
 
 <h2>👨‍💻 Executando o projeto</h2>
 <br>
-    asas
 
 <p align="justify"> 
-  Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+
+  Para executar o projeto, execute o comando:
+
+    npm start
+
+
+> *Lembrando que para poder executar este projeto você tera que ter instalado em sua maquina o banco de dados MongoDB.*
+
+
+  
   <!-- <img src="images/Human Activity.gif" alt="Human Activity.gif" display="inline-block" width="60%" height="50%"> -->
 </p> 
 
