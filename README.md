@@ -3,7 +3,7 @@
 </div>
 
 
-<h4 align="center"><i>Como você nunca pensou em criar uma API de receitas não é mesmo?! <a href="#" target="_blank">[Nome + link da tech]</a>.</i></h4>
+<h4 align="center"><i>Como você nunca pensou em criar uma API de receitas não é mesmo?!</i></h4>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <br>
